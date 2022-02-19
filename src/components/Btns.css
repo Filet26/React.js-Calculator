@@ -1,0 +1,20 @@
+/* styling for number buttons and functions */
+
+.btn-container {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: #e0e1e6;
+  color: #888;
+  outline: 1px solid #888;
+  flex: 1;
+}
+
+/* styling for mathematical functions */
+.function {
+  background-color: #003459;
+  color: white;
+}

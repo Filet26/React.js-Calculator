@@ -1,0 +1,15 @@
+/* styling for input box */
+
+.input {
+  height: 4rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 1.4em;
+  background-color: #00171f;
+  color: white;
+  padding: 12px;
+  outline: 1px solid #888888;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
